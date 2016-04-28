@@ -20,5 +20,9 @@ Links/Resources for new students
 
 * For communication and agenda please sign up and join Slack and Trello
 
-   * [The NU slack channel](https://cieraligo.slack.com/messages/general/)
-   * [NU Agendas Page](https://trello.com/b/SitwSZAy/weekly-ligo-nu-meetings)
+  * [The NU slack channel](https://cieraligo.slack.com/messages/general/)
+  * [NU Agendas Page](https://trello.com/b/SitwSZAy/weekly-ligo-nu-meetings)
+  * LISTSERVS
+    * CIERA-LSC
+    * GRAVITYSPY
+  
