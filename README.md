@@ -1,6 +1,11 @@
 # NUIntroductionToLIGO
 A fairly comprehensive list of resources for working with LIGO at NU
 
+RANDOM CRAP
+
+RANDOM RANDOM TEST TEST
+
+
 Links/Resources for new students
 
 * [Requesting Quest Computing Account](http://www.it.northwestern.edu/secure/forms/research/allocation-request.html)
