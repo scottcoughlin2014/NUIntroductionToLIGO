@@ -25,4 +25,5 @@ Links/Resources for new students
   * LISTSERVS
     * CIERA-LSC
     * GRAVITYSPY
-  
+ 
+This is some random crap at the end of the readme 
