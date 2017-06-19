@@ -11,7 +11,12 @@ Links/Resources for new students
 * [Requesting Quest Computing Account](http://www.it.northwestern.edu/secure/forms/research/allocation-request.html)
 
   * Help with form:
-  * From the point of view of Northwestern's IT group, you're asking to have your account added to Vicky's computer "allocation"; for 'Requestor School', you should enter "Office for Research", and for 'Requestor Department', you can enter "CIERA". For 'What is the Quest allocation ID that you wish to join?', you should enter: "b1011".
+  * From the point of view of Northwestern's IT group, you are asking to "Join an existing allocation"
+      * 'Requestor School', you should enter "Other"
+      * 'Requestor Department', you can enter "CIERA"
+      * 'What is the Quest allocation ID that you wish to join?', you should enter: "b1011".
+      * 'Who is the owner': Vicky Kalogera
+      * 'owner email' vicky@northwestern.edu
 
 * [Requesting myLIGO account](https://my.ligo.org/)
 
